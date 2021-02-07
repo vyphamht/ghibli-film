@@ -1,0 +1,10 @@
+.species_card {
+  margin: 2rem;
+  display: grid;
+}
+
+.species_cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
